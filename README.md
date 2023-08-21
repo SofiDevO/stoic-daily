@@ -1,7 +1,13 @@
 # stoic-daily
 NPM package that displays stoic quotes for daily motivation.
- After doing a “git init” there is technically nothing there...
 
+
+### Yo can add it to your personal aliases
+
+Added to the .bashrc or .zshrc to display at startup or whenever you want.
+
+![Alt text](image.png)
+![Alt text](image-1.png)
 
 ## Install
 
@@ -13,7 +19,7 @@ sudo npm install -g stoic-daily
 # Usage
 
 ```bash
-    stoic-daily
+stoic-daily
 ```
 
 # Contributing

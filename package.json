@@ -1,6 +1,6 @@
 {
   "name": "stoic-daily",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "NPM package that displays stoic quotes for daily motivation.",
   "main": "index.js",
   "scripts": {

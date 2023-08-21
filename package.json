@@ -1,0 +1,34 @@
+{
+  "name": "stoic-daily",
+  "version": "1.0.0",
+  "description": "NPM package that displays stoic quotes for daily motivation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SofiDevO/stoic-daily.git"
+  },
+  "keywords": [
+    "npm",
+    "stoic",
+    "quotes",
+    "npm",
+    "package",
+    "sofidev"
+  ],
+  "author": "SofiDev <contact@itssofi.dev>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SofiDevO/stoic-daily/issues"
+  },
+  "homepage": "https://github.com/SofiDevO/stoic-daily#readme",
+  "bin": {
+    "stoic-daily": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "stoic-daily": "^1.0.0"
+  }
+}

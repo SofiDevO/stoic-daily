@@ -1,10 +1,12 @@
 # stoic-daily
 NPM package that displays stoic quotes for daily motivation.
+ After doing a “git init” there is technically nothing there...
+
 
 ## Install
 
 ```npm
-npm install -g stoic-daily
+sudo npm install -g stoic-daily
 
 ```
 
